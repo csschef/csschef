@@ -16,6 +16,6 @@ I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-ae
 [pizzakalkylator.se](https://pizzakalkylator.se) is a simple pizza calculator to allow for ease of use when scaling dough and returning accurate required amount of yeast based on surrounding temperature of the dough throughout the fermentation and proofing time.
 
 ### Like what I'm doing?
-Consider giving me a coffe to keep the engine running
+Consider donating a coffee to keep the engine running.
 
 <a href="https://www.buymeacoffee.com/smeen89" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;" ></a>
