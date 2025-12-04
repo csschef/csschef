@@ -9,6 +9,23 @@ I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-ae
 
 :red_circle: Javascript, HTML and CSS
 
+:red_circle: Database technology
+
+:red_circle: DevOps and testing
+
+:red_circle: Front-end framework
+
+:red_circle: Integration with third-party systems
+
+:red_circle: WBL, Work based learning
+
+:red_circle: System Development
+
+:red_circle: Development for e-commerce platforms
+
+:red_circle: Final project
+
+
 ### My projects :wrench:
 
 [gameboxbar.se](https://gameboxbar.se) is a moc up website for a fictional game bar company.
