@@ -7,7 +7,7 @@ I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-ae
 ### I'm currently learning :mortar_board:
 :large_blue_circle: Competence Portfolio and Sustainable Development
 
-:red_circle: Javascript, HTML and CSS
+:large_blue_circle: Javascript, HTML and CSS
 
 :red_circle: Database technology
 
