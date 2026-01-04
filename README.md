@@ -28,9 +28,9 @@ I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-ae
 
 ### My projects :wrench:
 
-[gameboxbar.se](https://gameboxbar.se) is a moc up website for a fictional game bar company.
+[gameboxbar.se](https://gameboxbar.se) :game_die: is a moc up website for a fictional game bar company.
 
-[pizzakalkylator.se](https://pizzakalkylator.se) is a simple pizza calculator to allow for ease of use when scaling dough and returning accurate required amount of yeast based on surrounding temperature of the dough throughout the fermentation and proofing time.
+[pizzakalkylator.se](https://pizzakalkylator.se) :pizza: is a simple pizza calculator to allow for ease of use when scaling dough and returning accurate required amount of yeast based on surrounding temperature of the dough throughout the fermentation and proofing time.
 
 ### Like what I'm doing?
 Consider donating a coffee to keep the engine running.
