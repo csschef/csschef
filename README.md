@@ -15,15 +15,17 @@ I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-ae
 
 :red_circle: Front-end framework
 
-:red_circle: Integration with third-party systems
-
-:red_circle: WBL, Work based learning
-
 :red_circle: System Development
+
+:red_circle: Integration with third-party systems
 
 :red_circle: Development for e-commerce platforms
 
+:red_circle: WBL, Work based learning 1
+
 :red_circle: Final project
+
+:red_circle: WBL, Work based learning 2
 
 
 ### My projects :wrench:
