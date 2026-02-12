@@ -1,40 +1,63 @@
-## Well hello there 👋 <br>My name is Sebastian Valdemarsson
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=csschef)
+# 👋 Well hello there , I'm Sebastian Valdemarsson
 
-### About me
-I'm from Sweden. ![image](https://github.com/user-attachments/assets/c4eecd41-aeb8-48f6-940c-8f800db9d4da) I'm currently studying at Medieinstitutet to become a fullstack developer. Between my job as a master data administrator for the food industry and school, I'm deep into Home Assistant and love home automation. When I'm not writing code, I can be found in the kitchen cooking or baking :man_cook:, renovating the house :hammer:, enjoying a videogame :video_game:, or spending time with my two daughters and lovely partner. 
-
-### I'm currently learning :mortar_board:
-:large_blue_circle: Competence Portfolio and Sustainable Development
-
-:white_check_mark: Javascript, HTML and CSS
-
-:red_circle: Database technology
-
-:red_circle: DevOps and testing
-
-:red_circle: Front-end framework
-
-:red_circle: System Development
-
-:red_circle: Integration with third-party systems
-
-:red_circle: Development for e-commerce platforms
-
-:red_circle: WBL, Work based learning 1
-
-:red_circle: Final project
-
-:red_circle: WBL, Work based learning 2
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastianvaldemarsson)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valdemarsson.sebastian@gmail.com)
 
 
-### My projects :wrench:
 
-[gameboxbar.se](https://gameboxbar.se) :game_die: is a moc up website for a fictional game bar company.
+<img src="https://flagcdn.com/w20/se.png"/> Based in Kalmar, Sweden  
 
-[pizzakalkylator.se](https://pizzakalkylator.se) :pizza: is a simple pizza calculator to allow for ease of use when scaling dough and returning accurate required amount of yeast based on surrounding temperature of the dough throughout the fermentation and proofing time.
+Currently studying at **Medieinstitutet** to become a Fullstack Developer.
 
-### Like what I'm doing?
-Consider donating a coffee to keep the engine running.
+Alongside my studies, I work as a **Master Data Administrator in the food industry**.  
+Outside of work and school, I explore **Home Assistant**, automation, and modern web technologies.
 
-<a href="https://www.buymeacoffee.com/smeen89" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Beer" style="height: 41px !important;width: 174px !important;" ></a>
+When I'm not coding, I'm usually cooking, renovating, gaming, or spending time with my family. 
+
+##
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+## Projects
+
+#### [gameboxbar.se](https://gameboxbar.se)
+Mockup website for a fictional game bar company.
+
+#### [pizzakalkylator.se](https://pizzakalkylator.se)
+A pizza dough calculator that scales recipes and calculates accurate yeast amounts based on fermentation time and surrounding temperature.
+
+## CurrentlyLearning
+
+**Ongoing**
+- Competence Portfolio & Sustainable Development  
+
+**Completed**
+- JavaScript, HTML & CSS  
+
+**Upcoming**
+- Database Technology  
+- DevOps & Testing  
+- Front-end Frameworks  
+- System Development  
+- Third-party Integrations  
+- E-commerce Development  
+- Work Based Learning 1  
+- Final Project  
+- Work Based Learning 2  
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=csschef&show_icons=true&theme=dark)
+
+## Support My Work
+
+If you like what I'm building, consider buying me a coffee to keep the engine running 🚀  
+
+<a href="https://www.buymeacoffee.com/csschef" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="41" width="174" alt="Buy Me A Coffee" />
+</a>
