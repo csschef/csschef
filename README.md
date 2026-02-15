@@ -34,13 +34,13 @@ A pizza dough calculator that scales recipes and calculates accurate yeast amoun
 ## CurrentlyLearning
 
 **Ongoing**
-- Competence Portfolio & Sustainable Development  
+- Competence Portfolio & Sustainable Development
+- Database Technology  
 
 **Completed**
 - JavaScript, HTML & CSS  
 
 **Upcoming**
-- Database Technology  
 - DevOps & Testing  
 - Front-end Frameworks  
 - System Development  
