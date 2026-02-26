@@ -25,11 +25,37 @@ When I'm not coding, I'm usually cooking, renovating, gaming, or spending time w
 
 ## Projects
 
-#### [gameboxbar.se](https://gameboxbar.se)
-Mockup website for a fictional game bar company.
+### OleaDB — Full-Stack Recipe Database
+Self-hosted recipe management system running 24/7 on a Windows server.
 
-#### [pizzakalkylator.se](https://pizzakalkylator.se)
-A pizza dough calculator that scales recipes and calculates accurate yeast amounts based on fermentation time and surrounding temperature.
+**Tech Stack:** Node.js · Express · PostgreSQL · Vanilla JS · PM2  
+
+[View Repository](https://github.com/csschef/oleadb)  
+[Watch Demo](https://youtu.be/mswEZ2LkbjM)  
+
+---
+
+### GameBoxBar
+Modern mockup website for a fictional game bar concept.
+
+- Responsive layout  
+- Custom UI design  
+- Brand identity exploration  
+- Interactive components  
+
+https://gameboxbar.se  
+
+---
+
+### PizzaKalkylator
+Precision pizza dough calculator built for serious home bakers.
+
+- Scales recipes dynamically  
+- Calculates yeast based on fermentation time  
+- Temperature-adjusted proofing logic  
+- Clean and focused UX  
+
+https://pizzakalkylator.se
 
 ## CurrentlyLearning
 
