@@ -25,7 +25,7 @@ When I'm not coding, I'm usually cooking, renovating, gaming, or spending time w
 
 ## Projects
 
-### OleaDB — Full-Stack Recipe Database
+### OleaDB - Full-Stack Recipe Database
 Self-hosted recipe management system running 24/7 on a Windows server.
 
 **Tech Stack:** Node.js · Express · PostgreSQL · Vanilla JS · PM2  
