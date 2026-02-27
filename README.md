@@ -50,7 +50,9 @@ When I'm not coding, I'm usually cooking, renovating, gaming, or spending time w
 
 ## Projects
 
-### OleaDB - Full-Stack Recipe Database
+### Development Projects
+
+#### OleaDB - Full-Stack Recipe Database
 Self-hosted recipe management system running 24/7 on a Windows server.
 
 **Tech Stack:** Node.js · Express · PostgreSQL · Vanilla JS · PM2  
@@ -60,7 +62,9 @@ Self-hosted recipe management system running 24/7 on a Windows server.
 
 ---
 
-### GameBoxBar
+### Live Products
+
+#### GameBoxBar
 Modern mockup website for a fictional game bar concept.
 
 - Responsive layout  
@@ -72,7 +76,7 @@ https://gameboxbar.se
 
 ---
 
-### PizzaKalkylator
+#### PizzaKalkylator
 Precision pizza dough calculator built for serious home bakers.
 
 - Scales recipes dynamically  
