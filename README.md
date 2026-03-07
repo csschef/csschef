@@ -107,7 +107,7 @@ https://pizzakalkylator.se
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=csschef&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csschef)](https://git.io/streak-stats)
 
 ## Support My Work
 
