@@ -52,7 +52,7 @@ When I'm not coding, I'm usually cooking, renovating, gaming, or spending time w
 
 ### Development Projects
 
-#### Home Assistant Custom Dashboard
+#### Home Assistant Simplified Panel
 A high-end, bespoke dashboard built for speed and aesthetics, designed as a full replacement for the native Home Assistant UI. Developed in collaboration with an AI Coding Agent to push the boundaries of Web Component performance.
 
 Tech Stack: TypeScript · Vite · Web Components · Home Assistant WS API · Leaflet.js
@@ -62,7 +62,7 @@ Tech Stack: TypeScript · Vite · Web Components · Home Assistant WS API · Lea
 - Dynamic Weather Engine: A custom-built weather component featuring intelligent icon mapping, detailed local forecasting, and browser-level reverse geocoding.
 - Companion App Optimized: Engineered a robust asset-resolution system to ensure high-resolution custom graphics load seamlessly across Web, iOS, and Android.
 
-[View Repository](https://github.com/csschef/ha-dashboard)  
+[View Repository](https://github.com/csschef/hasp)  
 
 #### OleaDB - Full-Stack Recipe Database
 Self-hosted recipe management system running 24/7 on a Windows server.
