@@ -102,13 +102,13 @@ https://pizzakalkylator.se
 
 **Ongoing**
 - Competence Portfolio & Sustainable Development
-- Database Technology  
+- DevOps & Testing  
 
 **Completed**
-- JavaScript, HTML & CSS  
+- JavaScript, HTML & CSS
+- Database Technology  
 
 **Upcoming**
-- DevOps & Testing  
 - Front-end Frameworks  
 - System Development  
 - Third-party Integrations  
