@@ -52,17 +52,21 @@ When I'm not coding, I'm usually cooking, renovating, gaming, or spending time w
 
 ### Development Projects
 
-#### Home Assistant Simplified Panel
-A high-end, bespoke dashboard built for speed and aesthetics, designed as a full replacement for the native Home Assistant UI. Developed in collaboration with an AI Coding Agent to push the boundaries of Web Component performance.
+#### Home Assistant Simplified Panel (HASP)
+A mobile-first, performance-driven dashboard built as a personal replacement for Home Assistant’s native UI. Designed to feel like a native app rather than a configuration layer, with a strong focus on real-time responsiveness, UX, and full creative control.
 
-Tech Stack: TypeScript · Vite · Web Components · Home Assistant WS API · Leaflet.js
+Tech Stack: TypeScript · Vite · Web Components · Home Assistant WebSocket API · Leaflet.js
 
-- Optimistic UI: Implemented a "sub-millisecond" feedback loop for lighting and toggles, creating an instantaneous tactile feel.
-- Advanced Person Tracking: Native-app style "Find My" cards with overlapping glassmorphism pills and real-time satellite map popups (Esri World Imagery).
-- Dynamic Weather Engine: A custom-built weather component featuring intelligent icon mapping, detailed local forecasting, and browser-level reverse geocoding.
-- Companion App Optimized: Engineered a robust asset-resolution system to ensure high-resolution custom graphics load seamlessly across Web, iOS, and Android.
+- Replacing YAML with Code: Built to eliminate fragile Lovelace configs by creating a single TypeScript-driven source of truth for all UI logic and behavior.
+- Optimistic UI: Sub-millisecond feedback for lights, toggles, and controls using client-side state prediction and debounced WebSocket sync.
+- Device-Aware Experience: Detects the active device and user to dynamically adapt UI, greetings, tracking, and weather data.
+- Location-Based Weather Engine: Fetches live GPS coordinates from the current device and pulls real-time forecasts from Open-Meteo with reverse geocoding.
+- Advanced Navigation Handling: Custom history + sentinel system to fully control Android back-button behavior inside the Home Assistant Companion App WebView.
+- Interactive Map System: Real-time person tracking with Leaflet maps, satellite imagery, zone overlays, and clustering.
+- Custom UI Components: Fully bespoke controls (sliders, color pickers, popups) built with pointer events instead of native inputs for better mobile UX.
+- Performance & Delivery: Automatic cache-busting system ensures fresh builds across WebView, iOS, and Android without manual cache clearing.
 
-[View Repository](https://github.com/csschef/hasp)  
+[View Repository](https://github.com/csschef/hasp)
 
 #### OleaDB - Full-Stack Recipe Database
 Self-hosted recipe management system running 24/7 on a Windows server.
