@@ -95,16 +95,4 @@ Self-hosted recipe management system running 24/7 on a Windows server.
 - E-commerce Development  
 - Work Based Learning 1  
 - Final Project  
-- Work Based Learning 2  
-
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=csschef)](https://git.io/streak-stats)
-
-## Support My Work
-
-If you like what I'm building, consider buying me a coffee to keep the engine running 🚀  
-
-<a href="https://www.buymeacoffee.com/csschef" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="41" width="174" alt="Buy Me A Coffee" />
-</a>
+- Work Based Learning 2
