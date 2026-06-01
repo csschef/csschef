@@ -78,19 +78,19 @@ Self-hosted recipe management system running 24/7 on a Windows server.
 
 ---
 
-## CurrentlyLearning
+## Currently Learning
 
 **Ongoing**
-- Front-end Frameworks  
+- System Development  
 
 **Completed**  
 - Competence Portfolio & Sustainable Development
 - JavaScript, HTML & CSS
 - Database Technology
-- DevOps & Testing  
+- DevOps & Testing
+- Front-end Frameworks  
 
 **Upcoming**
-- System Development  
 - Third-party Integrations  
 - E-commerce Development  
 - Work Based Learning 1  
