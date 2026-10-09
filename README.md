@@ -36,7 +36,7 @@
 
 ### Cawa
 
-<a href="https://cawa.nu"><img src="assets/cawa.png" alt="Cawa on a phone and a tablet" width="100%" /></a>
+<a href="https://cawa.nu"><img src="assets/cawa.webp" alt="Cawa on a phone and a tablet" width="100%" /></a>
 
 Recipes, meal plans and shopping lists. A social recipe platform for the whole household. Save recipes, plan the week and share with friends. Built and run solo, live on the web and on Google Play.
 
@@ -48,7 +48,7 @@ Recipes, meal plans and shopping lists. A social recipe platform for the whole h
 
 ### Dorkus
 
-<a href="https://dorkus.se"><img src="assets/dorkus.png" alt="A Dorkus drawing round on a phone" width="100%" /></a>
+<a href="https://dorkus.se"><img src="assets/dorkus.webp" alt="A Dorkus drawing round on a phone" width="100%" /></a>
 
 A drawing party game for 2–8 players. No TV, no controllers: the phones are the game. One player has the app, everyone else joins from the browser.
 
