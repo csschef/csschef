@@ -16,8 +16,6 @@
 </picture>
 </a>
 
-<br>
-
 - Studying Fullstack Development at **Medieinstitutet**, right now: third-party integrations
 - Founder of **Calmar Webb AB**, with two apps live on Google Play
 - Product developer in the food industry, on leave while I study
@@ -35,8 +33,6 @@
   <img src="assets/head-featured-light.png" alt="02 Featured" width="100%">
 </picture>
 </a>
-
-<br>
 
 ### Cawa
 
@@ -68,8 +64,6 @@ A drawing party game for 2–8 players. No TV, no controllers: the phones are th
   <img src="assets/head-more-light.png" alt="03 More projects" width="100%">
 </picture>
 </a>
-
-<br>
 
 **[Nocturne](https://murder-mystery-rust.vercel.app)**: multiplayer murder-mystery game, built in a team of three with [Carolina](https://github.com/Carowa27) and [Steven](https://github.com/stevenlomon) · `Next.js` `Supabase`
 
