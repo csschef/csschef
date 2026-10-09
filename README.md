@@ -11,8 +11,8 @@
 
 <a name="about">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/head-about-dark.png">
-  <img src="assets/head-about-light.png" alt="01 About" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bar-about-dark.png">
+  <img src="assets/bar-about-light.png" alt="01 About" width="100%">
 </picture>
 </a>
 
@@ -29,8 +29,8 @@
 
 <a name="featured">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/head-featured-dark.png">
-  <img src="assets/head-featured-light.png" alt="02 Featured" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bar-featured-dark.png">
+  <img src="assets/bar-featured-light.png" alt="02 Featured" width="100%">
 </picture>
 </a>
 
@@ -60,8 +60,8 @@ A drawing party game for 2–8 players. No TV, no controllers: the phones are th
 
 <a name="more-projects">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/head-more-dark.png">
-  <img src="assets/head-more-light.png" alt="03 More projects" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bar-more-dark.png">
+  <img src="assets/bar-more-light.png" alt="03 More projects" width="100%">
 </picture>
 </a>
 
