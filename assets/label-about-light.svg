@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" role="img" aria-label="01 ABOUT">
+  <style>
+    @font-face { font-family: 'Mona Sans'; font-weight: 600; src: url(data:font/woff2;base64,d09GMgABAAAAAAQQABAAAAAACDwAAAO2AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgTocKAZgP1NUQVRaAEQRCAqDDIJmCw4AATYCJAMYBCAFhVQHIAwHG/AGyC4ObNcIIZZaiYts2DiceoyHp3Xwf+7sPhlJVHIEmJXRwI5mfHR4ftyvvXMHH2rDTE92Yt92iCXRTKVkmlvKVDKFIj9bjY+rlHbimvr/a+vzSpHRxCdSVRZpFYSz0XBWCfY0kNkogfWHsQtcAmIKVAckIVQQAlW1h4lHdQ1MgH6Tk0ZBr4ScBWIj4aOgRCCUqqgsVBYSKksmkWKNKTIVyb+gVf4lQwuQf1Utf0M1Rf5VdZXI38jXVNIUqEnOKuU/9mURUgpJsBSSUlnW7JrWUTbGHMPOt0GZfkrzQEY6gqlg4iKxBLoijiUdEGLsrJ42uDLcZNn2/4hyhKgFAZyFVD+9RmsSIVRWoD4JuhPv8FC/CNix1k9FIrGeOsMisaQtO7lCkqIzQCAE0TLNAxBI0Z4HIDGrKdCzS/UGKqssYYRhkzljuGETOedHeb4hAITIWS1QEVRHFewEbgJKQLLhiaplvXpWs7RsWG2pZlG9NKWeWJie1k1qZDWOPrfr2ZP+3T9VVz6rOkdz+jJ2v6haNYDr8XXqX37ywiLG7pfEakefK7vYn83poYRyy171SMZhV1VbtQrVyg0ig56JKKolw1itgzKRa/H6v7rnNB3RsNmCImlRkO980WSNHT4Y+l4v2sx4J/KSW3bWZY7canR+e8MCVzz6sub+mGGNuKqtsv535dNOzlr1bauovnS68oy9vkuX8cm8efhYlaf+GWP7edIKPiKcLLtpOtdF6quEiebU5brW8bSKTk9dNQOcrzSG4G/r/q0riNAhQKTyyuGosbvTj/sapHcgs6puICert+Jh7/PG7R6NBBBIrDz9dyw1NPxWuSh+huezLk0AfK3UYCNY8x/pv/QFFSUQ/C57saIFz6oc0WkZKtYGcHrF9983ociSm7aAI703hGgOW0fewzpWw2WFKKvgW0xJ2aFzdGQnNaMxuzDBB7s02Dm7gqa2WRX11yMWVDWEHarrCyZMR3ZLRnZ2e1pVDZ3ZfmZgRDhFDWHwMB82jsA9Atowwjx60TpYAtymEQE+ftS0AA/KbxAjymncPOsFndZRPKeBnq1FxhA+MY3uxJsq8QSBcZUIVqzU1s5kQ3w24pKQbvTfV6/bhB5t6vfVmRvOXpa3Y7A28LszYEjHMDTfj0AzGUbgvYwgwo1CWsVQfgy+zZSL9lEsQZ0SJXwC+rtiXIq5MSI1kRKRVWhFhNo8hZC1Huq72ycgeKsID6SrP51ChkyR3drSeSqdhCUrb40WKL8Vef+N8jg=) format('woff2'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 600; src: url(data:font/woff2;base64,d09GMgABAAAAAAK0AA8AAAAABawAAAJbAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGx4cKAZgP1NUQVQ2ADQRCAqBLIEzCwgAATYCJAMIBCAFhDIHIAwHG6UEyB6DbbN5JJYkMZLDWIzD4McRD//uh96XpOUhsRsrBElsS8cPXfUkoFBkVzvShP/n9/ee+6kMTmZ6AEsaWt9+6BPzv7DMr27P9288sOthIrE0UWELvFQW9bcsyyCwhAINpIkwwUA83SYe0lt1eEREiOwYYU8nCjQaqgitXb97CjEFKiDQaLx2Aedu4RRuKZCBSFnS7lYRJrVYCLb8A7HHcKwEiQYAAQCbVwN4ATMN5b//X8h/o3ckoHv/76Tx6S1GCguhXkJfCGMFzh3lLAQcP41LKCskWUjREyBAQkZfQYG+QkYCRRGYVcHMSvVGgBAVPUAGtShYAGwGoACy6N29uWl/y9tb5Bvv702tr6/S9ZeXna3vKN94S7S8QLr+etHyGDdaTa0Prj9piqaa7XHRFGoypWH9kbEJfGl2eQJjxtY36LEJbHl2aQJnxtbI8YXF0dnRhcVxbYw9lxrlUr3Ur1ZuwPnRVvr5zeVOv8O8xQIIpPmlbfC1uzc7+y0WzJ+g66nzJnR9vf5so/qe2tI71EogeHuRdjuBkQ1IzeLor20489lUwZUgR42uCorSgCd+ToShfpB09xLZUvcopmJQY7DdqNZk9VjQrL/oYRq/VE8JbKWS4RRbLDgJj3SBxmNxLNtolmUGHE9h2qNSqPoco7FsEpzhHM1g4qkUVcP6DRsyhOfVklRNgV2ZsW3ZDL2/TCe2V6g0PiMjVw0bHFR1ugl6xs10yDAW0EiUltjCHJUReqtOHItFY5o2YACLZ+HYCP1IKtkAYelA3me7BIEqw99UfxDV90s7AAA=) format('woff2'); }
+    .bar { fill: #e4e6e9; }
+    .label { font: 600 14.4px 'Mona Sans', system-ui, sans-serif; letter-spacing: 0.12em; fill: #131922; }
+    .num { font: 600 14.4px 'JetBrains Mono', ui-monospace, monospace; fill: #131922; }
+  </style>
+  <svg y="24" height="49" overflow="visible">
+    <!-- Full width, with the bottom right corner cut off like on calmarwebb.se. -->
+    <rect class="bar" width="100%" height="33"/>
+    <rect class="bar" x="-16" y="33" width="100%" height="16"/>
+    <svg x="100%" overflow="visible"><path class="bar" d="M-16 33H0L-16 49Z"/></svg>
+    <rect x="8.5" y="8.5" width="32" height="32" fill="#f58038"/>
+    <text class="num" x="24.5" y="25" text-anchor="middle" dominant-baseline="central">01</text>
+    <text class="label" x="52.5" y="25" dominant-baseline="central">ABOUT</text>
+  </svg>
+</svg>

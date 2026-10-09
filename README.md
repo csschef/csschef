@@ -1,7 +1,7 @@
 <a name="hero">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Sebastian Valdemarsson, Kalmar. Building stuff I actually want to use." width="100%" height="300">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-dark.svg">
+  <img src="assets/title-light.svg" alt="Sebastian Valdemarsson, Kalmar. Building stuff I actually want to use." width="100%" height="300">
 </picture>
 </a>
 
@@ -11,8 +11,8 @@
 
 <a name="about">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-about-dark.svg">
-  <img src="assets/section-about-light.svg" alt="01 About" width="100%" height="93">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-about-dark.svg">
+  <img src="assets/label-about-light.svg" alt="01 About" width="100%" height="93">
 </picture>
 </a>
 
@@ -29,8 +29,8 @@
 
 <a name="featured">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-featured-dark.svg">
-  <img src="assets/section-featured-light.svg" alt="02 Featured" width="100%" height="93">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-featured-dark.svg">
+  <img src="assets/label-featured-light.svg" alt="02 Featured" width="100%" height="93">
 </picture>
 </a>
 
@@ -60,8 +60,8 @@ A drawing party game for 2–8 players. No TV, no controllers: the phones are th
 
 <a name="more-projects">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/section-more-dark.svg">
-  <img src="assets/section-more-light.svg" alt="03 More projects" width="100%" height="93">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/label-more-dark.svg">
+  <img src="assets/label-more-light.svg" alt="03 More projects" width="100%" height="93">
 </picture>
 </a>
 
