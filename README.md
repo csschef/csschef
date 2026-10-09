@@ -16,13 +16,15 @@
 </picture>
 </a>
 
+<br>
+
 - Studying Fullstack Development at **Medieinstitutet**, right now: third-party integrations
 - Founder of **Calmar Webb AB**, with two apps live on Google Play
 - Product developer in the food industry, on leave while I study
 - Off the clock: Home Assistant, cooking, renovating, gaming and family
 
 <a name="tech">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,supabase,postgres,mongodb,cloudflare,git,githubactions&perline=14" alt="TypeScript, JavaScript, React, Next.js, Vite, Node.js, Express, Tailwind CSS, Supabase, PostgreSQL, MongoDB, Cloudflare, Git, GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,nodejs,express,tailwind,supabase,postgres,mongodb,cloudflare,git,githubactions&perline=14" width="440" alt="TypeScript, JavaScript, React, Next.js, Vite, Node.js, Express, Tailwind CSS, Supabase, PostgreSQL, MongoDB, Cloudflare, Git, GitHub Actions" />
 </a>
 
 <br>
@@ -34,11 +36,13 @@
 </picture>
 </a>
 
-#### [Cawa](https://cawa.nu): recipes, meal plans and shopping lists
+<br>
+
+### Cawa
 
 <a href="https://cawa.nu"><img src="assets/cawa.png" alt="Cawa on a phone and a tablet" width="100%" /></a>
 
-A social recipe platform for the whole household. Save recipes, plan the week and share with friends. Built and run solo, live on the web and on Google Play.
+Recipes, meal plans and shopping lists. A social recipe platform for the whole household. Save recipes, plan the week and share with friends. Built and run solo, live on the web and on Google Play.
 
 `React` `TypeScript` `Supabase` `Tailwind CSS` `Capacitor`
 
@@ -46,11 +50,11 @@ A social recipe platform for the whole household. Save recipes, plan the week an
 
 <br>
 
-#### [Dorkus](https://dorkus.se): a drawing party game
+### Dorkus
 
 <a href="https://dorkus.se"><img src="assets/dorkus.png" alt="A Dorkus drawing round on a phone" width="100%" /></a>
 
-A drawing game for 2–8 players. No TV, no controllers: the phones are the game. One player has the app, everyone else joins from the browser.
+A drawing party game for 2–8 players. No TV, no controllers: the phones are the game. One player has the app, everyone else joins from the browser.
 
 `React` `TypeScript` `Cloudflare Workers` `WebSockets` `Capacitor`
 
@@ -64,6 +68,8 @@ A drawing game for 2–8 players. No TV, no controllers: the phones are the game
   <img src="assets/head-more-light.png" alt="03 More projects" width="100%">
 </picture>
 </a>
+
+<br>
 
 **[Nocturne](https://murder-mystery-rust.vercel.app)**: multiplayer murder-mystery game, built in a team of three with [Carolina](https://github.com/Carowa27) and [Steven](https://github.com/stevenlomon) · `Next.js` `Supabase`
 
