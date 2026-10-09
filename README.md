@@ -1,7 +1,7 @@
 <a name="hero">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Sebastian Valdemarsson, Kalmar. Building stuff I actually want to use." width="100%" height="300">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Sebastian Valdemarsson, Kalmar. Building stuff I actually want to use." width="100%" height="300">
 </picture>
 </a>
 
