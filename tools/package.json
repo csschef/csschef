@@ -1,0 +1,17 @@
+{
+  "name": "csschef-readme-images",
+  "private": true,
+  "type": "module",
+  "description": "Builds the images in ../assets from calmarwebb.se",
+  "scripts": {
+    "capture": "node capture.mjs",
+    "compose": "node compose.mjs",
+    "build": "node build.mjs",
+    "preview": "node preview.mjs",
+    "measure": "node measure.mjs"
+  },
+  "dependencies": {
+    "sharp": "^0.35.5",
+    "subset-font": "^2.9.0"
+  }
+}

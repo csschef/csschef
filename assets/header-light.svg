@@ -10,8 +10,8 @@
     .dot { fill: #195fbf; }
     .p { fill: none; stroke: #195fbf; stroke-width: 1.5; }
     .s { opacity: 0; transform-box: fill-box; transform-origin: center; }
-    /* Blinkar bara med mus. På telefoner fick ommålningarna GitHub-appens
-       rullningslist att fladdra. */
+    /* Twinkle only with a mouse. On phones the constant repaints made the
+       GitHub app's scrollbar flicker. */
     @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
       .s { animation: twinkle 13s ease-in-out infinite; }
     }
@@ -19,8 +19,8 @@
       0%, 30%, 100% { opacity: 0; transform: scale(0.7); }
       14% { opacity: 1; transform: scale(1); }
     }
-    /* Tre uppställningar efter bildens egen bredd: rubriken på två rader i 60 och
-       48 px, och på telefoner tre rader utan koordinater och stjärnor. */
+    /* Three layouts by the image's own width: the headline on two lines at 60 and
+       48 px, and on phones three lines without the coordinates and the stars. */
     .m, .n { display: none; }
     @media (max-width: 719.98px) {
       .w { display: none; }
@@ -36,8 +36,8 @@
     @media (max-width: 285px) {
       .place { display: none; }
     }
-    /* "Building stuff" är 6,08 em: 36 px kräver 24 + 219 px. Smalare än så, som på
-       en 320 px telefon, klipptes rubriken. */
+    /* "Building stuff" is 6.08 em: at 36 px it needs 24 + 219 px. Narrower than
+       that, as on a 320 px phone, the headline was cut. */
     @media (max-width: 249.98px) {
       .h1 { font-size: 32px; }
     }

@@ -5,7 +5,7 @@
     .kind { fill: #656b74; }
     .tag { fill: #49505b; }
     .box { fill: none; stroke: rgb(19 25 34 / 0.28); stroke-width: 1; }
-    /* Kommer snart: streckad kant och svagare text, ingen färg. */
+    /* Coming soon: a dashed box and fainter text, no colour. */
     .box.soon { stroke-dasharray: 3 2; }
     .tag.soon { fill: #656b74; }
     .sq { fill: #195fbf; }

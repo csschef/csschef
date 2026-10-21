@@ -5,13 +5,13 @@
     .num { font: 300 44px 'Mona Sans', system-ui, sans-serif; fill: #131922; }
     .label { font: 500 12.8px 'JetBrains Mono', ui-monospace, monospace; letter-spacing: 0.12em; fill: #131922; }
     .aside { fill: #656b74; }
-    /* Raden till höger får inte plats bredvid etiketten på telefoner. */
+    /* The line on the right does not fit beside the label on phones. */
     @media (max-width: 419.98px) { .aside { display: none; } }
   </style>
   <text class="num" x="0" y="70">02</text>
   <text class="label" x="68.4" y="70">FEATURED</text>
   <svg x="100%" overflow="visible"><text class="label aside" x="0" y="70" text-anchor="end">APPS / GAMES</text></svg>
   <rect y="86" width="100%" height="1" fill="rgb(19 25 34 / 0.28)"/>
-  <!-- Strecket ligger på hårlinjen, lika brett som numret. -->
+  <!-- The stroke sits on the hairline, as wide as the number. -->
   <rect y="86" width="50.8" height="2" fill="#195fbf"/>
 </svg>
