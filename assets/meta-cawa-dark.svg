@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="30" role="img" aria-label="App, on Google Play and the web. App Store soon.">
+  <style>
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url(data:font/woff2;base64,d09GMgABAAAAAAUMABAAAAAACbwAAASxAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoBmA/U1RBVEwAdBEICod4hiALIAABNgIkAyAEIAWESgcgDAcbrgdRVFEGk311YBtiukM9GF4YTUMtWpemY8psLAF59GOkHD9lg8+D/6/9ynNf9x/oXkByEIXkkFQqQsXO2oBjEBrJLoIK6NRKmv+87E+hFFYySlJGBRSNVIinhY97k/ju9HFLNLlrsWUcJhSofP8DuMPuhB+qYanN5vTH/Uo3CiOxMUGXFjHybZR1WGTwGm1fJMiB/fHTmwVcw3Ouw3YL5jW/EjIIyAMADCHyEQICdcJJdu6uaAAueID1zQA2+B0S2X3Vd/k+C/AEOLLL23Etk4BdaWIADpiXdRaktgIMssSK4t79AwCfadLaK2vj8H80pTchebw0BdZhs0ATR4TIYEAZO6CN3eWLuj4JcOl4k6QQUcYBhzAVAQABBqBEy6CvYMcBgAEOKGOPgDIOnAco480eTxMSo1iFGg2atUbQhFigV6m7TXfZRReccdopJxxPqDJC65sVolPRDR8rBdQP0A0AwAMAhkMe1vBCgEy2NJvNa0uVlBTkZwuzvZn2wngunglHw+FT0NFnkxVbxpugJF6dIDc+HvRrIjIenXCmNDQZlApqDDVaEJN88siqL/zkpNzQ1BTEPUFYy7kyjOVGjoH2q88rw3D0+RSuM/dCbvTh7N0ZBgML4SjA7uAaRrRGIJhjwbCQ2NvqdtJCjWoweWNuYuj+uqHJ1F5rPcJRKPdlsPGUlhlSUCj4eNaqv/vwIfcfP74Vxra4kPs73Lp27dsXuGXPnuAOyL4Nap3fGbD9UFg71GKXdubNRso2p51+9IkKfPbDT29512VmetW9BI1e6frFFiS1pDxJ6sbVp2bV4/mKDhXMjHb04lSeEqUovLfNrHgDw6/lFtDlAEc9imajv1AcyIJWIQqOoEkFq0JoWpQqukgTdk6pvIcy6IOy4gJat8T+OUKsKbX3ATPTYIEIai097wp3rLZrjBtWdY8+6wpxqLSrj58EadACIsNElrGC2guxBENMlMq/g2KVayiNrSoVuzEa3QPyvVgnRwWKxEStvHg2dnYWJUkUIwl0FuQto5ahLFFaZvi7BRudS9Omrw4rCgoV6KZiGGRSps/G2gqMCIPm44QSTrm3qz20OrDJUpkrbxVhWjVkBG1n31TKj2am3NvdEVYd0GitysM6tAj4N7jql+pBoOoNnw35ZWX4eOdVx+VDKhzyq+4EIEM/GOqqfTOO+/rn50Z65ubH5/uCfx6v79um/O7+T6/zPDvuZzM2PLxXRBQOXOU1mPXK/QubsXf/AOZGX90DmJsd/q88/4yy30AKA0Dwczjs+AZJwBYkxKDF423SNOpSw6z2Vd9+A4JUgAgAAYX0sgd4wS9FruCQzwLv5TuhqPNBaBQwK3RstE/o6dMjTKjRIkjRI1NEkEcLOsFXoAvxAYrM7xgcZGXGsyjVh2eiJ6qkpqLXz6yZmp6WTp8yan1IPXh6Fr0qWVlYZaijptXPhNejiVqPXnpWFtEQmRAwGG6PtuREdwIgxwKyGBH17sHgFNspVjbDemTMRkNkZ+5oDROUehiej9XoYWWgJkKPEfr10bHqOQTJHfSpYBvU47Jk0dJvXq+fIJPIyiyLwqJZ8l43hT0ArKshtyz3tdbn568DAAA=) format('woff2'); }
+    text { font: 500 11.2px 'JetBrains Mono', ui-monospace, monospace; letter-spacing: 0.12em; }
+    .kind { fill: #8a9098; }
+    .tag { fill: #afb5bc; }
+    .box { fill: none; stroke: rgb(236 239 242 / 0.3); stroke-width: 1; }
+    /* Kommer snart: streckad kant och svagare text, ingen färg. */
+    .box.soon { stroke-dasharray: 3 2; }
+    .tag.soon { fill: #8a9098; }
+    .sq { fill: #82b4f6; }
+    .new { font-weight: 600; fill: #82b4f6; }
+    .row { transform-origin: 0 15px; }
+    @media (max-width: 331px) { .row { transform: scale(0.92); } }
+    @media (max-width: 304px) { .row { transform: scale(0.84); } }
+    @media (max-width: 278px) { .row { transform: scale(0.76); } }
+  </style>
+  <g class="row">
+  <text class="kind" x="0" y="19">APP</text>
+  <rect class="box" x="42.29" y="4" width="104.26" height="21.7"/>
+  <text class="tag" x="50.07" y="19">GOOGLE PLAY</text>
+  <rect class="box" x="153.96" y="4" width="39.75" height="21.7"/>
+  <text class="tag" x="161.74" y="19">WEB</text>
+  <rect class="box soon" x="201.11" y="4" width="128.46" height="21.7"/>
+  <text class="tag soon" x="208.89" y="19">APP STORE SOON</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="30" role="img" aria-label="Game, on Google Play and the web.">
+  <style>
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url(data:font/woff2;base64,d09GMgABAAAAAASIABAAAAAACNgAAAQuAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoBmA/U1RBVEwAbBEICoYkhQALGgABNgIkAxoEIAWESgcgDAcbAAfIngNuywwhpS6PVpdefkl7/FSRrYiKYatnSSFbFIVCgSOrJBEKC/aMwdj40cjHSPzfz7+nf9J0yp2RiYXSzkkHsPYT9ecvf4v62vZ4nna+Lkqpq/OIwoTGPJ18wkn9D7AOe+Jy+r8rGhP3AIxCHJtK17KxLFsTKIJ4bcAsamPaBRjgC+bYODfor8rOy3kdQS+gRHSLoNusZNhRbXM3BGqF5v9gRLguB+vdyK3y2iEU5oxrrX7sjzaqkVMATtjy3AC/VAEUXZRprD2eAH7DooE69v8O/o+liATs5fl9UOusR1jkJ6JTYRQLq1iPBqMXAx6OyoqFQYxiaxGVcAAEBWnD/pC/1DUACi0YhQtGsV0Dw8LhyiJajTot2vUZuGJRdZvZrO0b3G8/nXPKSSccD6MMIs3/DaD0On4SGMA3OQQArYDSIhQsMCfW2RUVFBSc5Z8SGRoSlB2GFGiE6CW6h1DvvnuxG+6QyA8tvwtPd+4QOf8l92WLdx97vkeYIXAbuGWekAqBXrb8/rl3D2uZe//+GjP1dA+VNG5APd2c58l063KziCN2CPiJPTv3xmzen9aH2ASGC++n9RODO++qXrCFpxbke5ffxlq2st3JTiPdLPw2s9EoGtm6cyds3707SVEgCeuHidFtu3bFbtixI34Y4YNooHtszOajSUOon1V46uEqw7UVnrz+rJURh3i3zod3lpSEdd6Di9w3+jT9/IL6plwBoewq4HTJKsTDWl7N9GGPjCmXUAwj8wzaxA95vAciO4zmsJK5TirIL4wSOE2u5YuV1XJarEjr5XKNQDxKW6VnJJLLVA11lY05R3UuUfw5PsQKfCawxTq5UgN0FtZ/3DNWcvhlTc3HhY/0/zit7iBvkFliURtt6togfYDHzyv4Z6fJ1XzhxlShQm2tyCiqa6qFyldiFJIVlFy6XCLeLpVTO6A73+uMIkrN0FKNQVQ3P2P+fIqmKSldTc0H7Xqo4qIoTnFEeHlbZgXSylBU2wjAXo/iodGOhzNlkdEVZamhZRVZFZHwr+/B65wTdWlidzb09MwoJ716CBDUPvvdP/V9G1b2txPHP8DXrUPbAPh6dOOXsfuvGNYbtCsQfqSvrkdIYoYARhFKqh8GFeoxqp0NrV23GClA0GsNDkId6tEAXFqDgE+MXYpj1gdx6fdP3OLALnGrXW5xm2n9onbbStQw0GsZ9EPHwTC0+1cLBwKnHGxU7Bp4qViZaLTQ0TLxsemjY2Jg5NVIx4vmpmJi59HCwc6hWCcdAx8rFbdeOm4eJg52JL4SfDy89V6SGyErV4xWqUa00tOra42f6GFs3mkq9xvTJD4u9JO6W6CuiTvPaufmYKajWTurmo+XkYN7FlHlMfLycvKQ4eAwMPEy8lEroeFgwzlhUM57P5sPB5o6/E9W+or9Xzj2SgA=) format('woff2'); }
+    text { font: 500 11.2px 'JetBrains Mono', ui-monospace, monospace; letter-spacing: 0.12em; }
+    .kind { fill: #8a9098; }
+    .tag { fill: #afb5bc; }
+    .box { fill: none; stroke: rgb(236 239 242 / 0.3); stroke-width: 1; }
+    /* Kommer snart: streckad kant och svagare text, ingen färg. */
+    .box.soon { stroke-dasharray: 3 2; }
+    .tag.soon { fill: #8a9098; }
+    .sq { fill: #82b4f6; }
+    .new { font-weight: 600; fill: #82b4f6; }
+    .row { transform-origin: 0 15px; }
+    @media (max-width: 203px) { .row { transform: scale(0.92); } }
+    @media (max-width: 186px) { .row { transform: scale(0.84); } }
+    @media (max-width: 170px) { .row { transform: scale(0.76); } }
+  </style>
+  <g class="row">
+  <text class="kind" x="0" y="19">GAME</text>
+  <rect class="box" x="50.36" y="4" width="104.26" height="21.7"/>
+  <text class="tag" x="58.14" y="19">GOOGLE PLAY</text>
+  <rect class="box" x="162.02" y="4" width="39.75" height="21.7"/>
+  <text class="tag" x="169.8" y="19">WEB</text>
+  </g>
+</svg>

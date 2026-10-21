@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="30" role="img" aria-label="New. App, on the web.">
+  <style>
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 500; src: url(data:font/woff2;base64,d09GMgABAAAAAAOEABAAAAAABxwAAAMqAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoBmA/U1RBVEwATBEICoMgglwLDgABNgIkAw4EIAWESgcgDAcbsAXIngU52WkKMTd1Ko2ch2m0H+Lh4V725943atMYW+egsijKA4oCCbgttIZgkf7h82/Xe9/iY2bhKpiTeMEvalacDVFB6lQmXVL9jm4jdjkZ4t/d/cXQap4lFjYPhJ9J6UrrO3EzbYKHGxOJQhzTunBTlgXStoAyGOt/Ez3oWIKPL/juT/+20aiakqskHCoOCZcnF2gFpBAqIdBswAbkoKymBUlK+M8DCDSbsoNAeFR1BrkgZGDpK7OD/IGYvDwh4GisjlPYqwBImgA//MDDCfjE0N7+/Z+h+EOMDMjt+jzklGAJjBALoVGigwATBOcuN0fA2R30EzlCB5FCyFAACCRERf4A8Q15AiBRoINQoIPICmjWKKU9pRq0fx6wS+fIv+Pn44EAIMR/HnJQg1Y04QI8AKAEpEJI0ZisTk6WSJO30/10L9VGtXTTbY/ndFdnGFpMn5nFm5mhyOjsMtoYPk+Oz1FCA6aBKUERStEKZbXSA0og1E3TfXTvrXvX7jy47e+/SO/GHqrv9v2brqt3r3p6DG8Xz28sYHgz/pfkK5/bpkYVTWazvGkOO/Pu+HCHXV9RvdNBDTTrLc1ZeWk9I7bSgz2xrOLc9Izi4qxYVyBt0WZbSA2iLy8GiseZfuZL8QBa8r3cnZoxVFyUOexKLT+55eTJlaKijMyiwoyTGFmLg1ZabTEpFbn1W/PokSxaXd8LLHa1je5rXDycpdLk5WyS5eRty1MBEMgl0Vjp+yv98py/SULhB+B36vlt4Hdp4hct5L5gCdQSBGWy8kQAtA0g4G0iO9DFoFWfFloEtUlCEOBYi0sIRZkMXomImDDgA5Pa/TCFDfeZ0oIoU+nTQdfmmFkEWo2BYrQLlKPN35oCFI6FBAwKqsQZ5OcxrBZrhEdcQDuWh4sbpwqLUyRqkEdQTK2QoBCTJiyXOL9BUW1YUTEeIUEMOzM7G5vfZCYXoztaJVuVItnh2ad8YLJYSNh+0YwRw86KNqOFAWyVn6caRIV4sYa9U4XiOG4hUdOn2sWNwwmLyWJh4eLBcYsbYjYsJMASUNeS97W7CYH/LHvJ4o+EP/26PAcA) format('woff2'); }
+    @font-face { font-family: 'JetBrains Mono'; font-weight: 600; src: url(data:font/woff2;base64,d09GMgABAAAAAALwABAAAAAABigAAAKVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoBmA/U1RBVDYARBEICoFogUoLCgABNgIkAwoEIAWEMgcgDAcb5ATIrgZsYxr4RYmhRo0TjokX0cdWxEhe/3oR1O91e+9/WisKhSvV0RUeoXCMx5g4NLJUoaokxqGT8KN/+XI/BZyKB6EAT84Vy9pJ2oZu1tZhgQhs99sYdre7LMIwMMqk/i9rLNxnhJCxipXW57upd1eBBdjHRFLKynpZAUela1hAGQS2APPTcCzBCAOAzFuxx4goe/TK6GSPkz0Sd4FGQBJCJgTqDSqFNk0dA5Aoh38gUG9aHRa4mn1maQDS4cTJ08jwQRzpZsrg4D/jAnihAUjUAQgA2B8A75bh+q9ckpWihQAqvNyQpln3GBUnhFoJnRAmsa6cLoqAyzvrQxkQkkxIkQmAAAkZOjECnbBVoFathC1dhj+6rP/n//8gACH+aQE5qEWGDeAYgBwQQjRm16bEpUEj09uElMmN6+tgUnDy1PrVlWyYcuH1/W3YLByWTFexyJzYzrGxs1O8trVVODF+v0N1VOIoeVM5oPN1MlgW38eMVLu9stLjwSbczQzURGB639GGEWFnZ6l7spTYIcVZmmmE2BzUhu09d4oTc9XqTFB3jSIRQCCt4YMRz890i+KjlmHeofhzuwFA8ffrTzZI26x7VEsgeI6dzgHJbgGkvyLSCIwZ1ykbQm4KAqH01bvGiDwJePYtCIMekTT7QGbdKnKLHKjSr0OpNq9KhUCjbpoh1X+pTEjGoSC/WQFW1Cwft3nD7NycXCgbO0onYpZbQFSnoICgVn3snGJ8ZkUMsYuIcgsKIHja8HBx4xZRLWIEOkXORkdOzy/ViWm9oJAVkYwewcMxlxhwxF7nZj49IoI87OZRhFYM5RIUEUU0cKGokCgZNjYnN3wuZk6beUF+bEJTdt5nGzHAf3jfFLwPu8MHAAA=) format('woff2'); }
+    text { font: 500 11.2px 'JetBrains Mono', ui-monospace, monospace; letter-spacing: 0.12em; }
+    .kind { fill: #8a9098; }
+    .tag { fill: #afb5bc; }
+    .box { fill: none; stroke: rgb(236 239 242 / 0.3); stroke-width: 1; }
+    /* Kommer snart: streckad kant och svagare text, ingen färg. */
+    .box.soon { stroke-dasharray: 3 2; }
+    .tag.soon { fill: #8a9098; }
+    .sq { fill: #82b4f6; }
+    .new { font-weight: 600; fill: #82b4f6; }
+    .row { transform-origin: 0 15px; }
+    @media (max-width: 142px) { .row { transform: scale(0.92); } }
+    @media (max-width: 130px) { .row { transform: scale(0.84); } }
+    @media (max-width: 119px) { .row { transform: scale(0.76); } }
+  </style>
+  <g class="row">
+  <rect class="sq" x="0" y="11" width="8" height="8"/>
+  <text class="new" x="17" y="19">NEW</text>
+  <text class="kind" x="58.79" y="19">APP</text>
+  <rect class="box" x="101.08" y="4" width="39.75" height="21.7"/>
+  <text class="tag" x="108.86" y="19">WEB</text>
+  </g>
+</svg>
